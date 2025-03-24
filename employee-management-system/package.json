@@ -9,7 +9,7 @@
     "test": "ng test",
     "serve:ssr:employee-management-system": "node dist/employee-management-system/server/server.mjs"
   },
-  "private": true,
+  
   "dependencies": {
     "@angular/animations": "^18.0.0",
     "@angular/common": "^18.0.0",
